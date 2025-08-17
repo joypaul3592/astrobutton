@@ -8,13 +8,13 @@
   "types": "dist/index.d.ts",
   "author": "Joy <joypaul3592@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/astrobutton#readme",
+  "homepage": "https://github.com/joypaul3592/astrobutton#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/astrobutton.git"
+    "url": "git+https://github.com/joypaul3592/astrobutton.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/astrobutton/issues"
+    "url": "https://github.com/joypaul3592/astrobutton/issues"
   },
   "keywords": [
     "react",
