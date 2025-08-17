@@ -167,13 +167,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-MIT © [Joy](https://github.com/yourusername)
+MIT © [Joy](https://github.com/joypaul3592)
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/yourusername/astrobutton)
+- [GitHub Repository](https://github.com/joypaul3592/astrobutton)
 - [npm Package](https://www.npmjs.com/package/astrobutton)
-- [Issues](https://github.com/yourusername/astrobutton/issues)
+- [Issues](https://github.com/joypaul3592/astrobutton/issues)
 
 ---
 
