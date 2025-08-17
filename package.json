@@ -1,0 +1,66 @@
+{
+  "name": "astrobutton",
+  "version": "1.0.0",
+  "description": "Beautiful animated React buttons with star effects and dynamic features",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "author": "Joy <joypaul3592@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/astrobutton#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/astrobutton.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/astrobutton/issues"
+  },
+  "keywords": [
+    "react",
+    "button",
+    "component",
+    "ui",
+    "animation",
+    "stars",
+    "astro",
+    "typescript",
+    "nextjs",
+    "ripple",
+    "loading"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.esm.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "prepublishOnly": "npm run build",
+    "release": "npm version patch && npm publish"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "@rollup/plugin-typescript": "^11.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "rollup": "^3.0.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "tslib": "^2.6.0",
+    "typescript": "^5.0.0"
+  }
+}
