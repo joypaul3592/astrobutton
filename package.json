@@ -1,6 +1,6 @@
 {
   "name": "astrobutton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beautiful animated React buttons with star effects and dynamic features",
   "type": "module",
   "main": "dist/index.js",
